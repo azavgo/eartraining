@@ -1,1 +1,2 @@
 # eartraining
+The idea of this project for now is to play classical guitar sounds and wait for the keyboard input from the user to test what was the note played. The correct/incorrect feedback is provided. 
